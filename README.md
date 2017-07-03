@@ -5,12 +5,15 @@
     * Herramientas de trabajo
     * sublime text 3
     * comand-line(no acabado)
+    * Git-Github(introduccion)
 
+# PRUEBA DE CODIGO HTML
 <table>
     <tr>
         <td> hola mundo </td>
     </tr>
 </table>
+
 # COMO INSERTAR UNA IMAGEN
 
 
@@ -18,7 +21,7 @@
 tutorial markdown[1]
 
 
-:)
+
 
 [1]:https://blog.ghost.org/markdown/
 # Git  
